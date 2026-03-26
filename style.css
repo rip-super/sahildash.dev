@@ -204,6 +204,10 @@ a {
     animation-delay: 0.6s;
 }
 
+.subdomain-imgbtn:nth-child(4) {
+    animation-delay: 0.8s;
+}
+
 .subdomain-imgbtn:hover {
     transform: translate(-2px, -2px);
 }
