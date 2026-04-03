@@ -8,6 +8,6 @@ in order to run locally, just open the index.html page in your web browser of ch
 ---
 
 ## Pictures:
-<img width="1868" height="893" alt="Screenshot 2026-01-18 180838" src="https://github.com/user-attachments/assets/c382591a-ddc5-4a32-85a4-b87860bffb44" />
-<img width="1888" height="898" alt="Screenshot 2026-01-18 180851" src="https://github.com/user-attachments/assets/9aecfd81-b319-43a3-be58-c022ee55ebff" />
+<img width="1798" height="892" alt="Screenshot 2026-04-02 224152" src="https://github.com/user-attachments/assets/e7407077-66dd-40e7-9552-4ccfcff1eb6c" />
+<img width="1846" height="902" alt="Screenshot 2026-04-02 224159" src="https://github.com/user-attachments/assets/eeaeb588-2cb7-4b6c-997f-f3c9b6c2adcc" />
 <img width="1843" height="885" alt="Screenshot 2026-01-18 180857" src="https://github.com/user-attachments/assets/be443ee9-f9db-426f-8482-b0c671e5a8f3" />
